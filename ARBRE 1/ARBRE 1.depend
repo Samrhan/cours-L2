@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1574099775 source:c:\users\samuel\desktop\arbre 1\main.c
+	<stdlib.h>
+	<stdio.h>
+	"structs.h"
+	"pile.h"
+
+1574099096 c:\users\samuel\desktop\arbre 1\structs.h
+
+1574097610 c:\users\samuel\desktop\arbre 1\pile.h
+	"pile.c"
+
+1574099283 c:\users\samuel\desktop\arbre 1\pile.c
+
